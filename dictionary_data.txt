@@ -1,0 +1,1000 @@
+1	as	nhu
+2	I	toi
+3	his	minh
+4	that	ma
+5	he	ong
+6	was	la
+7	for	cho
+8	on	tren
+9	are	la
+10	with	voi
+11	they	ho
+12	be	duoc
+13	at	tai
+14	one	mot
+15	have	co
+16	this	nay
+17	from	tu
+18	by	boi
+19	hot	nong
+20	word	tu
+21	but	nhung
+22	what	nhung gi
+23	some	mot so
+24	is	la
+25	it	no
+26	you	anh
+27	or	hoac
+28	had	co
+29	the	cac
+30	of	cua
+31	to	de
+32	and	va
+33	a	mot
+34	in	trong
+35	we	chung toi
+36	can	co the
+37	out	ra
+38	other	khac
+39	were	la
+40	which	ma
+41	do	lam
+42	their	cua ho
+43	time	thoi gian
+44	if	neu
+45	will	se
+46	how	nhu the nao
+47	said	noi
+48	an	mot
+49	each	moi
+50	tell	noi
+51	does	khong
+52	set	bo
+53	three	ba
+54	want	muon
+55	air	khong khi
+56	well	cung
+57	also	cung
+58	play	choi
+59	small	nho
+60	end	cuoi
+61	put	dat
+62	home	nha
+63	read	doc
+64	hand	tay
+65	port	cong
+66	large	lon
+67	spell	chinh ta
+68	add	them
+69	even	tham chi
+70	land	dat
+71	here	o day
+72	must	phai
+73	big	lon
+74	high	cao
+75	such	nhu vay
+76	follow	theo
+77	act	hanh dong
+78	why	ly do tai sao
+79	ask	xin
+80	men	nguoi dan ong
+81	change	thay doi
+82	went	di
+83	light	anh sang
+84	kind	loai
+85	off	tat
+86	need	can
+87	house	nha
+88	picture	hinh anh
+89	try	thu
+90	us	chung toi
+91	again	mot lan nua
+92	animal	dong vat
+93	point	diem
+94	mother	me
+95	world	the gioi
+96	near	gan
+97	build	xay dung
+98	self	tu
+99	earth	dat
+100	father	cha
+101	any	bat ky
+102	new	moi
+103	work	cong viec
+104	part	mot phan
+105	take	co
+106	get	duoc
+107	place	noi
+108	made	thuc hien
+109	live	song
+110	where	noi
+111	after	sau khi
+112	back	tro lai
+113	little	it
+114	only	chi
+115	round	chung quanh
+116	man	nguoi dan ong
+117	year	nam
+118	came	den
+119	show	chuong trinh
+120	every	moi
+121	good	tot
+122	me	toi
+123	give	cung cap cho
+124	our	cua chung toi
+125	under	duoi
+126	name	ten
+127	very	rat
+128	through	thong qua
+129	just	chi
+130	form	hinh thuc
+131	sentence	cau
+132	great	tuyet voi
+133	think	nghi
+134	say	noi
+135	help	giup
+136	low	thap
+137	line	dong
+138	differ	khac nhau
+139	turn	lan luot
+140	cause	nguyen nhan
+141	much	nhieu
+142	mean	co nghia la
+143	before	truoc
+144	move	di chuyen
+145	right	ngay
+146	boy	cau be
+147	old	cu
+148	too	qua
+149	same	nhu nhau
+150	she	co
+151	all	tat ca
+152	there	co
+153	when	khi
+154	up	len
+155	use	su dung
+156	your	cua ban
+157	way	cach
+158	about	ve
+159	many	nhieu
+160	then	sau do
+161	them	ho
+162	write	viet
+163	would	se
+164	like	nhu
+165	so	de
+166	these	cac
+167	her	co
+168	long	lau
+169	make	lam
+170	thing	dieu
+171	see	thay
+172	him	anh
+173	two	hai
+174	has	co
+175	look	xem
+176	more	hon
+177	day	ngay
+178	could	co the
+179	go	di
+180	come	den
+181	did	da lam
+182	number	so
+183	sound	am thanh
+184	no	khong co
+185	most	nhat
+186	people	nhan dan
+187	my	cua toi
+188	over	hon
+189	know	biet
+190	water	nuoc
+191	than	hon
+192	call	goi
+193	first	dau tien
+194	who	nguoi
+195	may	co the
+196	down	xuong
+197	side	ben
+198	been	duoc
+199	now	bay gio
+200	find	tim
+201	head	dau
+202	stand	dung
+203	own	rieng
+204	page	trang
+205	should	nen
+206	country	nuoc
+207	found	tim thay
+208	answer	cau tra loi
+209	school	truong
+210	grow	phat trien
+211	study	nghien cuu
+212	still	van
+213	learn	hoc
+214	plant	nha may
+215	cover	bia
+216	food	thuc pham
+217	sun	anh nang mat troi
+218	four	bon
+219	between	giua
+220	state	nha nuoc
+221	keep	giu
+222	eye	mat
+223	never	khong bao gio
+224	last	cuoi cung
+225	let	cho phep
+226	thought	nghi
+227	city	thanh pho
+228	tree	cay
+229	cross	qua
+230	farm	trang trai
+231	hard	cung
+232	start	bat dau
+233	might	might
+234	story	cau chuyen
+235	saw	cua
+236	far	den nay
+237	sea	bien
+238	draw	ve
+239	left	con lai
+240	late	cuoi
+241	run	chay
+242	don’t	khong
+243	while	trong khi
+244	press	bao chi
+245	close	gan
+246	night	dem
+247	real	thuc
+248	life	cuoc song
+249	few	so
+250	north	phia bac
+251	book	cuon sach
+252	carry	thuc hien
+253	took	mat
+254	science	khoa hoc
+255	eat	an
+256	room	phong
+257	friend	nguoi ban
+258	began	bat dau
+259	idea	y tuong
+260	fish	ca
+261	mountain	nui
+262	stop	ngan chan
+263	once	mot lan
+264	base	co so
+265	hear	nghe
+266	horse	ngua
+267	cut	cat
+268	sure	chac chan
+269	watch	xem
+270	color	mau
+271	face	khuon mat
+272	wood	go
+273	main	chinh
+274	open	mo
+275	seem	duong nhu
+276	together	cung
+277	next	tiep theo
+278	white	trang
+279	children	tre em
+280	begin	bat dau
+281	got	co
+282	walk	di bo
+283	example	Vi du
+284	ease	giam bot
+285	paper	giay
+286	group	nhom
+287	always	luon luon
+288	music	nhac
+289	those	nhung
+290	both	ca hai
+291	mark	danh dau
+292	often	thuong
+293	letter	thu
+294	until	cho den khi
+295	mile	dam
+296	river	song
+297	car	xe
+298	feet	chan
+299	care	cham soc
+300	second	thu hai
+301	enough	du
+302	plain	dong bang
+303	girl	co gai
+304	usual	thong thuong
+305	young	tre
+306	ready	san sang
+307	above	tren day
+308	ever	bao gio
+309	red	mau do
+310	list	danh sach
+311	though	mac du
+312	feel	cam thay
+313	talk	noi chuyen
+314	bird	chim
+315	soon	som
+316	body	co the
+317	dog	con cho
+318	family	gia dinh
+319	direct	truc tiep
+320	pose	dat ra
+321	leave	lai
+322	song	bai hat
+323	measure	do luong
+324	door	cua
+325	product	san pham
+326	black	den
+327	short	ngan
+328	numeral	chu so
+329	class	lop
+330	wind	gio
+331	question	cau hoi
+332	happen	xay ra
+333	complete	hoan thanh
+334	ship	tau
+335	area	khu vuc
+336	half	mot nua
+337	rock	da
+338	order	de
+339	fire	lua
+340	south	nam
+341	problem	van de
+342	piece	manh
+343	told	noi
+344	knew	biet
+345	pass	vuot qua
+346	since	tu
+347	top	dau
+348	whole	toan bo
+349	king	vua
+350	street	duong pho
+351	inch	inch
+352	multiply	nhan
+353	nothing	khong co gi
+354	course	Tat nhien
+355	stay	o lai
+356	wheel	banh xe
+357	full	day du
+358	force	luc
+359	blue	mau xanh
+360	object	doi tuong
+361	decide	quyet dinh
+362	surface	be mat
+363	deep	sau
+364	moon	mat trang
+365	island	dao
+366	foot	chan
+367	system	he thong
+368	busy	ban ron
+369	test	kiem tra
+370	record	ghi
+371	boat	thuyen
+372	common	pho bien
+373	gold	vang
+374	possible	co the
+375	plane	may bay
+376	stead	thay
+377	dry	kho
+378	wonder	tu hoi
+379	laugh	cuoi
+380	thousand	ngan
+381	ago	truoc
+382	ran	ran
+383	check	kiem tra
+384	game	tro choi
+385	shape	hinh dang
+386	equate	danh dong
+387	hot	nong
+388	miss	bo lo
+389	brought	mang
+390	heat	nhiet
+391	snow	tuyet
+392	tire	lop xe
+393	bring	mang lai
+394	yes	vang
+395	distant	xa
+396	fill	dien
+397	east	dong
+398	paint	son
+399	language	ngon ngu
+400	among	trong
+401	unit	don vi
+402	power	dien
+403	town	thi tran
+404	fine	tot
+405	certain	nhat dinh
+406	fly	bay
+407	fall	giam
+408	lead	dan
+409	cry	keu
+410	dark	toi
+411	machine	may
+412	note	ghi
+413	wait	doi
+414	plan	ke hoach
+415	figure	con so
+416	star	sao
+417	box	hop
+418	noun	danh tu
+419	field	linh vuc
+420	rest	phan con lai
+421	correct	chinh xac
+422	able	the
+423	pound	bang
+424	done	Xong
+425	beauty	ve dep
+426	drive	o dia
+427	stood	dung
+428	contain	chua
+429	front	truoc
+430	teach	day
+431	week	tuan
+432	final	thuc
+433	gave	da
+434	green	mau xanh la cay
+435	oh	oh
+436	quick	nhanh chong
+437	develop	phat trien
+438	ocean	dai duong
+439	warm	am ap
+440	free	mien phi
+441	minute	phut
+442	strong	manh me
+443	special	dac biet
+444	mind	tam
+445	behind	sau
+446	clear	trong
+447	tail	duoi
+448	produce	san xuat
+449	fact	thuc te
+450	space	khong gian
+451	heard	nghe
+452	best	tot nhat
+453	hour	gio
+454	better	tot hon
+455	true	dung
+456	during	trong khi
+457	hundred	tram
+458	five	nam
+459	remember	nho
+460	step	buoc
+461	early	dau
+462	hold	giu
+463	west	tay
+464	ground	mat dat
+465	interest	quan tam
+466	reach	dat
+467	fast	nhanh chong
+468	verb	dong tu
+469	sing	hat
+470	listen	lang nghe
+471	six	sau
+472	table	bang
+473	travel	du lich
+474	less	it
+475	morning	buoi sang
+476	ten	muoi
+477	simple	don gian
+478	several	nhieu
+479	vowel	nguyen am
+480	toward	huong
+481	war	chien tranh
+482	lay	dat
+483	against	chong lai
+484	pattern	mo hinh
+485	slow	cham
+486	center	trung tam
+487	love	tinh yeu
+488	person	nguoi
+489	money	tien
+490	serve	phuc vu
+491	appear	xuat hien
+492	road	duong
+493	map	Ban do
+494	rain	mua
+495	rule	quy tac
+496	govern	phoi
+497	pull	keo
+498	cold	lanh
+499	notice	thong bao
+500	voice	giong noi
+501	energy	nang luong
+502	hunt	san
+503	probable	co the xay ra
+504	bed	giuong
+505	brother	anh trai
+506	egg	trung
+507	ride	di xe
+508	cell	pin
+509	believe	tin
+510	perhaps	co le
+511	pick	chon
+512	sudden	dot ngot
+513	count	tinh
+514	square	vuong
+515	reason	ly do
+516	length	chieu dai
+517	represent	dai dien
+518	art	nghe thuat
+519	subject	Tieu de
+520	region	khu
+521	size	kich thuoc
+522	vary	khac nhau
+523	settle	giai quyet
+524	speak	noi
+525	weight	trong luong
+526	general	chung
+527	ice	bang
+528	matter	van de
+529	circle	vong tron
+530	pair	doi
+531	include	bao gom
+532	divide	chia
+533	syllable	am tiet
+534	felt	cam thay
+535	grand	lon
+536	ball	bong
+537	yet	nhung
+538	wave	song
+539	drop	roi
+540	heart	tim
+541	am	la
+542	present	hien nay
+543	heavy	nang
+544	dance	khieu vu
+545	engine	dong co
+546	position	vi tri
+547	arm	canh tay
+548	wide	rong
+549	sail	buom
+550	material	tai lieu
+551	fraction	phan
+552	forest	rung
+553	sit	ngoi
+554	race	cuoc dua
+555	window	cua so
+556	store	cua hang
+557	summer	mua he
+558	train	dao tao
+559	sleep	ngu
+560	prove	chung minh
+561	lone	don doc
+562	leg	chan
+563	exercise	tap the duc
+564	wall	tuong
+565	catch	bat
+566	mount	mount
+567	wish	muon
+568	sky	bau troi
+569	board	hoi dong quan tri
+570	joy	niem vui
+571	winter	mua dong
+572	sat	ngoi
+573	written	bang van ban
+574	wild	hoang da
+575	instrument	cu
+576	kept	giu
+577	glass	kinh
+578	grass	co
+579	cow	bo
+580	job	cong viec
+581	edge	canh
+582	sign	dau hieu
+583	visit	lan
+584	past	qua
+585	soft	mem
+586	fun	vui ve
+587	bright	sang
+588	gas	khi
+589	weather	thoi tiet
+590	month	thang
+591	million	trieu
+592	bear	chiu
+593	finish	ket thuc
+594	happy	hanh phuc
+595	hope	hy vong
+596	flower	hoa
+597	clothe	mac
+598	strange	la
+599	gone	ra di
+600	trade	thuong mai
+601	melody	giai dieu
+602	trip	chuyen di
+603	office	van phong
+604	receive	nhan
+605	row	hang
+606	mouth	mieng
+607	exact	chinh xac
+608	symbol	bieu tuong
+609	die	chet
+610	least	nhat
+611	trouble	rac roi
+612	shout	het len
+613	except	tru
+614	wrote	da viet
+615	seed	hat giong
+616	tone	giai dieu
+617	join	tham gia
+618	suggest	de nghi
+619	clean	sach
+620	break	nghi
+621	lady	phu nu
+622	yard	san
+623	rise	tang
+624	bad	xau
+625	blow	don
+626	oil	dau
+627	blood	mau
+628	touch	cham
+629	grew	tang
+630	cent	phan tram
+631	mix	tron
+632	team	doi
+633	wire	day
+634	cost	chi phi
+635	lost	thua
+636	brown	nau
+637	wear	mac
+638	garden	vuon
+639	equal	nhu nhau
+640	sent	gui
+641	choose	chon
+642	fell	giam
+643	fit	phu hop voi
+644	flow	chay
+645	fair	cong bang
+646	bank	ngan hang
+647	collect	thu thap
+648	save	luu
+649	control	kiem soat
+650	decimal	so thap phan
+651	ear	tai
+652	else	khac
+653	quite	kha
+654	broke	da pha vo
+655	case	khi
+656	middle	trung
+657	kill	giet
+658	son	con trai
+659	lake	ho
+660	moment	thoi diem
+661	scale	quy mo
+662	loud	lon
+663	spring	mua xuan
+664	observe	quan sat
+665	child	con
+666	straight	thang
+667	consonant	phu am
+668	nation	quoc gia
+669	dictionary	tu dien
+670	milk	sua
+671	speed	toc do
+672	method	phuong phap
+673	organ	co quan
+674	pay	tra
+675	age	tuoi
+676	section	phan
+677	dress	vay
+678	cloud	dien toan dam may
+679	surprise	bat ngo
+680	quiet	yen tinh
+681	stone	da
+682	tiny	nho
+683	climb	len cao
+684	cool	mat me
+685	design	thiet ke
+686	poor	nguoi ngheo
+687	lot	rat nhieu
+688	experiment	thi nghiem
+689	bottom	duoi
+690	key	chinh
+691	iron	sat
+692	single	don
+693	stick	thanh
+694	flat	phang
+695	twenty	hai muoi
+696	skin	da
+697	smile	nu cuoi
+698	crease	nep
+699	hole	lo
+700	jump	nhay
+701	baby	be
+702	eight	tam
+703	village	lang
+704	meet	dap ung
+705	root	goc
+706	buy	mua
+707	raise	nang cao
+708	solve	giai quyet
+709	metal	kim loai
+710	whether	lieu
+711	push	day
+712	seven	bay
+713	paragraph	doan
+714	third	thu ba
+715	shall	co trach nhiem
+716	held	duoc to chuc
+717	hair	long
+718	describe	mo ta
+719	cook	nau an
+720	floor	san
+721	either	hoac
+722	result	ket qua
+723	burn	ghi
+724	hill	doi
+725	safe	an toan
+726	cat	meo
+727	century	the ky
+728	consider	xem xet
+729	type	loai
+730	law	phap luat
+731	bit	bit
+732	coast	bo bien
+733	copy	ban sao
+734	phrase	cum tu
+735	silent	im lang
+736	tall	cao
+737	sand	cat
+738	soil	dat
+739	roll	cuon
+740	temperature	nhiet do
+741	finger	ngon tay
+742	industry	nganh cong nghiep
+743	value	gia tri
+744	fight	cuoc chien
+745	lie	loi noi doi
+746	beat	danh bai
+747	excite	kich thich
+748	natural	tu nhien
+749	view	xem
+750	sense	y nghia
+751	capital	von
+752	won’t	se khong
+753	chair	ghe
+754	danger	nguy hiem
+755	fruit	trai cay
+756	rich	giau
+757	thick	day
+758	soldier	nguoi linh
+759	process	qua trinh
+760	operate	hoat dong
+761	practice	thuc hanh
+762	separate	rieng biet
+763	difficult	kho khan
+764	doctor	bac si
+765	please	xin vui long
+766	protect	bao ve
+767	noon	trua
+768	crop	cay trong
+769	modern	hien dai
+770	element	yeu to
+771	hit	nhan
+772	student	sinh vien
+773	corner	goc
+774	party	ben
+775	supply	cung cap
+776	whose	co
+777	locate	xac dinh vi tri
+778	ring	vong
+779	character	nhan vat
+780	insect	con trung
+781	caught	bat
+782	period	thoi gian
+783	indicate	chi ra
+784	radio	radio
+785	spoke	noi
+786	atom	nguyen tu
+787	human	con nguoi
+788	history	lich su
+789	effect	hieu luc
+790	electric	dien
+791	expect	mong doi
+792	bone	xuong
+793	rail	duong sat
+794	imagine	tuong tuong
+795	provide	cho
+796	agree	dong y
+797	thus	do do
+798	gentle	nhe nhang
+799	woman	nguoi phu nu
+800	captain	doi truong
+801	guess	doan
+802	necessary	can thiet
+803	sharp	sac net
+804	wing	canh
+805	create	tao
+806	neighbor	hang xom
+807	wash	rua
+808	bat	bat
+809	rather	thay
+810	crowd	dam dong
+811	corn	ngo
+812	compare	so sanh
+813	poem	bai tho
+814	string	chuoi
+815	bell	chuong
+816	depend	phu thuoc
+817	meat	thit
+818	rub	cha
+819	tube	ong
+820	famous	noi tieng
+921	dollar	dong do la
+822	stream	song
+823	fear	so hai
+284	sight	canh
+825	thin	mong
+826	triangle	tam giac
+827	planet	hanh tinh
+828	hurry	nhanh
+829	chief	truong
+830	colony	thuoc dia
+831	clock	dong ho
+832	mine	toi
+833	tie	ca vat
+834	enter	nhap
+835	major	chinh
+836	fresh	tuoi
+837	search	tim kiem
+838	send	gui
+839	yellow	vang
+840	gun	sung
+841	allow	cho phep
+842	print	in
+843	dead	chet
+844	spot	tai cho
+845	desert	sa mac
+846	suit	phu hop voi
+847	current	hien tai
+848	lift	thang may
+840	rose	tang
+850	arrive	den
+851	master	chu
+852	track	theo doi
+853	parent	me
+854	shore	bo
+855	division	phan chia
+856	sheet	to
+857	substance	chat
+858	favor	ung ho
+859	connect	ket noi
+860	post	bai
+861	spend	chi tieu
+862	chord	hop am
+863	fat	chat beo
+864	glad	vui
+865	original	ban dau
+866	share	chia se
+867	station	tram
+868	dad	cha
+869	bread	banh mi
+870	charge	phi
+871	proper	thich hop
+872	bar	thanh
+873	offer	phuc vu
+874	segment	phan khuc
+875	slave	no le
+876	duck	vit
+877	instant	ngay lap tuc
+878	market	thi truong
+879	degree	muc do
+880	populate	cu
+881	chick	ga
+882	dear	than yeu
+883	enemy	ke thu
+884	reply	tra loi
+885	drink	ly
+886	occur	xay ra
+887	support	ho tro
+888	speech	bai phat bieu
+889	nature	thien nhien
+890	range	pham vi
+891	steam	hoi nuoc
+892	motion	chuyen dong
+893	path	con duong
+894	liquid	chat long
+895	log	dang nhap
+896	meant	co nghia la
+897	quotient	thuong
+898	teeth	rang
+899	shell	vo
+900	neck	co
+901	oxygen	oxy
+902	sugar	duong
+903	death	chet
+904	pretty	kha
+905	skill	ky nang
+906	women	phu nu
+907	season	mua
+908	solution	giai phap
+909	magnet	nam cham
+910	silver	bac
+911	thank	cam on
+912	branch	chi nhanh
+913	match	tran dau
+914	suffix	hau to
+915	especially	dac biet la
+916	fig	sung
+917	afraid	so
+918	huge	to
+919	sister	em gai
+920	steel	thep
+921	discuss	thao luan
+922	forward	ve phia truoc
+923	similar	tuong tu
+924	guide	huong dan
+925	experience	kinh nghiem
+926	score	diem
+927	apple	tao
+928	bought	mua
+929	led	dan
+930	pitch	san
+931	coat	ao
+932	mass	khoi luong
+933	card	the
+934	band	ban nhac
+935	rope	day
+936	slip	truot
+937	win	gianh chien thang
+938	dream	mo
+939	evening	buoi toi
+940	condition	dieu kien
+941	feed	thuc an chan nuoi
+942	tool	cong cu
+943	total	tong so
+944	basic	co ban
+945	smell	mui
+946	valley	thung lung
+947	nor	cung khong
+948	double	doi
+949	seat	ghe
+950	continue	tiep tuc
+951	block	khoi
+952	chart	bieu do
+953	hat	mu
+954	sell	ban
+955	success	thanh cong
+956	company	cong ty
+957	subtract	tru
+958	event	su kien
+959	particular	rieng
+960	deal	thoa thuan
+961	swim	boi
+962	term	han
+963	opposite	nguoc lai
+964	wife	vo
+965	shoe	giay
+966	shoulder	vai
+967	spread	lay lan
+968	arrange	sap xep
+969	camp	trai
+970	invent	phat minh
+971	cotton	bong
+972	born	Sinh
+973	determine	xac dinh
+974	quart	lit
+975	nine	chin
+976	truck	xe tai
+977	noise	tieng on
+978	level	muc
+979	chance	co hoi
+980	gather	thu thap
+981	shop	cua hang
+982	stretch	cang ra
+983	throw	nem
+984	shine	toa sang
+985	property	tai san
+986	column	cot
+987	molecule	phan tu
+988	select	chon
+989	wrong	sai
+990	gray	mau xam
+991	repeat	lap lai
+992	require	yeu cau
+993	broad	rong
+994	prepare	chuan bi
+995	salt	muoi
+996	nose	mui
+997	plural	so nhieu
+998	anger	tuc gian
+999	claim	xin
+1000	continent	luc
